@@ -1,0 +1,19 @@
+{
+  "imagens": [
+    {
+      "id": 1,
+      "nome": "Montanha Azul",
+      "url": "https://picsum.photos/id/10/400/300"
+    },
+    {
+      "id": 2,
+      "nome": "Lago Verde",
+      "url": "https://picsum.photos/id/20/400/300"
+    },
+    {
+      "id": 3,
+      "nome": "Floresta",
+      "url": "https://picsum.photos/id/30/400/300"
+    }
+  ]
+}
