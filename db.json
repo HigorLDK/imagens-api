@@ -2,8 +2,8 @@
   "imagens": [
     {
       "id": 1,
-      "nome": "Montanha Azul",
-      "url": "https://picsum.photos/id/10/400/300"
+      "nome": "Venom",
+      "url": "https://github.com/HigorLDK/imagens-api/blob/b821464c0ca2a4ed029889f6e36bd45adfb26312/imagens/Venom.webp"
     },
     {
       "id": 2,
